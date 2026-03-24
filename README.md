@@ -1,4 +1,4 @@
-# iAAFT Surrogate Generation for Multichannel EEG
+# iAAFT Surrogate Generation for Nonstationary Multichannel EEG
 
 Python implementation of iterative Amplitude-Adjusted Fourier Transform (iAAFT) surrogate generation for multichannel, non-stationary EEG data augmentation, with changepoint-based segmentation and fixed-edge constraints.
 
